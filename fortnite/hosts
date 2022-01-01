@@ -25,3 +25,5 @@
 0.0.0.0 account-public-service-prod-m.ol.epicgames.com
 0.0.0.0 launcher-public-service-prod-m.ol.epicgames.com
 0.0.0.0 catalog-public-service-prod-m.ol.epicgames.com
+0.0.0.0 account-public-service-prod.ol.epicgames.com
+0.0.0.0 api.epicgames.dev
